@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @josephkb87,CS Undergraduate 
-- 👀 I’m interested in Mobile(Android),Web/Cloud & Desktop Devt ON Win & Linux
-- 🌱 I’m currently learning Kotlin/Python/NodeJs/Java/script/ML/AI/SQL
+- 👋 Hi, I’m @josephkb87,CS Undergrad
+- 👀 I’m loce Mobile(Android),Web/Cloud & Desktop Devt ON Win & Linux
+- 🌱 I am learning Kotlin/Python/NodeJs/Java/script/ML/AI/SQL
 - 💞️ I’m looking to collaborate on Mobile/Web/Cloud Projects
 - 📫 How to reach me @josephkb87 on github
 
