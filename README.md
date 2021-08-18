@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @josephkb87,CS Undergrad
-- 👀 I’m loce Mobile(Android),Web/Cloud & Desktop Devt ON Win & Linux
-- 🌱 I am learning Kotlin/Python/NodeJs/Java/script/ML/AI/SQL
-- 💞️ I’m looking to collaborate on Mobile/Web/Cloud Projects
-- 📫 How to reach me @josephkb87 on github
+- 👋 Hi, I’m @josephkb87,CS Undergrad, & Aerospace Undergrad.
+- new and learning the ropes with With C++,Matlab+, C#  
+- 👀 I’m a noob at Mobile(Android),Web/Cloud & Desktop Devt ON Win & Linux.
+- 🌱 I am horning my skills in Kotlin/Python/NodeJs/Java/script/ML/AI/SQL
+- 💞️ I’m open to learning more through collaboration on Mobile/Web/Cloud Projects
+- 📫  reach out to on git @josephkb87 
 
 <!---
 josephkb87/josephkb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
