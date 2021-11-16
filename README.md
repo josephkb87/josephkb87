@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josephkb87,CS Undergrad, & Aerospace Undergrad.
+- 👋 Hi, I’m a CS Undergrad & Aerospace Undergrad.
 - new and learning the ropes with With C++,Matlab+, C#  
 - 👀 I’m a noob at Mobile(Android),Web/Cloud & Desktop Devt ON Win & Linux.
 - 🌱 I am horning my skills in Kotlin/Python/NodeJs/Java/script/ML/AI/SQL
