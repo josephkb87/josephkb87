@@ -1,9 +1,9 @@
-- 👋 Hi, I’m a CS Undergrad & Aerospace Undergrad.
-- new and learning the ropes with With C++,Matlab+, C#  
-- 👀 I’m a noob at Mobile(Android),Web/Cloud & Desktop Devt ON Win & Linux.
-- 🌱 I am horning my skills in Kotlin/Python/NodeJs/Java/script/ML/AI/SQL
+- 👋 Hi, I’m a CS & Aerospace Undergrad Student.
+- 👀 Noob and connecting the ..... with Python, Java/Kotlin, C++,Matlab+, C#  
+- 🌱am horning my skills with Desktop Devt on Win & Linux
+- 💞️Applying programming and computer Science to aerospace engineering. 
 - 💞️ I’m open to learning more through collaboration on Mobile/Web/Cloud Projects
-- 📫  reach out to on git @josephkb87 
+- 📫  i will fork your repo :) while i learn and follow you
 
 <!---
 josephkb87/josephkb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
