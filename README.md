@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a CS & Aerospace Undergrad Student.
-- 👀 Noob and connecting the ..... with Python,Java/Kotlin, C++, C#  
+- 👋 CS & Aerospace Undergrad Noob.
+- 👀  connecting the ..... with Python,Java/Kotlin, C++, C#  
 -  ✨ From Mobile/Web/Cloud Projects to CFD Coding and Matlab++ && More.
 - 🌱  I am horning my skills in Applying Programming Science to Aerospace Engineering.
 - 📫 I will fork your repo :) while i learn from and follow you.
