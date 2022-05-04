@@ -1,4 +1,4 @@
-- 👋 CS & Aerospace Noob 👀 Connecting the .....
+- 👋 Connecting the ..... 👀 
 - 🌱 I will fork your repo :) while i learn from you.
 - ✨ Running on coffee & believes Schrodinger's cat is still alive 📫
 <!---
