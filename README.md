@@ -1,7 +1,6 @@
 - 👀 CS & Aero Noob 👋 Connecting the .....  
 - Applying Programming Science to AeroSpace.
 - 🌱 I will fork your repo :) while i learn from you.
-- ✨ I run on coffee & believes Schrodinger's cat is still alive 📫
 <!---
 josephkb87/josephkb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
