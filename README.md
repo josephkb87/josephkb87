@@ -1,5 +1,4 @@
-- 👀 CS & Aero Noob 👋 Connecting the .....  
-- Applying Programming Science to AeroSpace.
+- 👀 CS & Aero Undergrad👋 Applying Programming Science to AeroSpace.
 - 🌱 I will fork your repo :) while i learn from you.
 <!---
 josephkb87/josephkb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
