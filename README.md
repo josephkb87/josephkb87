@@ -1,8 +1,10 @@
-##  Hi, Welcome to my github [Profile[(josephkb87.github.io) .
+###   Hi, Welcome to  My github Profile<a href="https://josephkb87.github.io"> Official Profile </p>
 
- ### **I am Joseph**.👀 CS & Aero Undergrad👋 Applying Programming Science to AeroSpace
+ ### **I am Joseph**.👀 CS & Aero Undergrad👋 Applying Programming Science to AeroSpace.
 
   ### ** 🌱   Here to learn share ideate and build with software tools.
+ 
+ ### Some of the work i have done and are still doing can be found here.
 
   ### <p>  Tour of my profile starts <a href="https://github.com/josephkb87">here</a> </p>
 
