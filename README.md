@@ -15,7 +15,7 @@
 
   #### <p> Matlab  & Octave? <a href="https://github.com/josephkb87/Matlab_Octave">Go to this repo</a> </p>
 
-  #### <p> Matlab & Octave with Jupyter Notebooks<a href="https://github.com/josephkb87/JuMatOct">Matlab & Octave  Jupyter Notebooks</a> </p>
+  #### <p> Matlab & Octave with Jupyter Notebooks<a href="https://github.com/josephkb87/JuMatOct">Go Here</a> </p>
 
   #### <p>For Verilog Basics <a href="https://github.com/josephkb87/VerilogBasics">Click here </a> </p>
 
