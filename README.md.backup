@@ -6,7 +6,7 @@
  
  ### Some of the work i have done and are still doing can be found here.
 
-  ### Tour of my profile starts <a href="https://github.com/josephkb87?tab=repositories">here</a>
+  ### Start  <a href="https://github.com/josephkb87?tab=repositories">here</a> for a Tour of my profile . </a >
 
  ### <p>  Shortcuts to the different repos are; </p>
 
