@@ -5,7 +5,7 @@
 
  ### I am a.👀 Computer Science & Aerospace  Engineer👋 .My mission is Apply Programming Science to build software and tools for AeroSpace.
 
-  ###  🌱   Start  here for a Tour of my profile.<a href="https://github.com/josephkb87?tab=repositories">For Some of the work i have done and are still working on. </a>
+  ###  🌱   Start  here the Tour of my profile for Some of the work i have done and are still working on.<a href="https://github.com/josephkb87?tab=repositories"></a>
 
  ### <p>  For Shortcuts to the different repositories ; </p>
 
