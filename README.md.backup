@@ -1,6 +1,7 @@
 ###   Hi, **I am Joseph**.Welcome to  My Github <a href="https://josephkb87.github.io"> Official Profile </p>
 
-### Socials Links (LINKTREE LINK)
+### Check out my [Socials]  <a href=https://linktr.ee/jungbasher87)>LinkTree</a>
+### <!--START_SECTION:waka--><!--END_SECTION:waka-->
  
 
  ### I am a.👀 Computer Science & Aerospace  Engineer👋 .My mission is Apply Programming Science to build software and tools for AeroSpace.
