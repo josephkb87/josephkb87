@@ -1,6 +1,6 @@
 ###   Hi, **I am Joseph**.Welcome to  My Github <a href="https://josephkb87.github.io"> Official Profile </p>
 
-### Check out my [Socials]  <a href=https://linktr.ee/jungbasher87)>LinkTree</a>
+### Check out [My Socials]  <a href=https://linktr.ee/jungbasher87)></a>
 ### <!--START_SECTION:waka--><!--END_SECTION:waka-->
  
 
