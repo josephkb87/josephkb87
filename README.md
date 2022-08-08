@@ -30,10 +30,6 @@
  
 <!--END_SECTION:waka-->
 
-####  <p > My  <a href="https://www.privacypolicygenerator.info/"> Privacy Policy </a> </p>
-  
-  #### <p>Fair usage  <a href="https://www.termsandconditionsgenerator.com/live.php?token=KlLRN36WWN5xtwgjex6GHzRi595mJs7U"> Terms & Conditions</a> </p>
-
   <!---
   josephkb87/josephkb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
