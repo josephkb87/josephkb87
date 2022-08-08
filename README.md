@@ -2,9 +2,9 @@
 
 ###  I am a.👀 Computer Science & Aerospace  Undergrad applying Programming Science to building software and tools for AeroSpace.
 
-####  My Official Site is <a href="https://josephkb87.github.io">Over Here</a>
+####  <a href="https://josephkb87.github.io">Website</a>
 
-####  Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
+####  Check out My Socials on <a href="https://linktr.ee/jungbasher87">My Socials</a>
 
   ####  🌱   My work is <a href="https://github.com/josephkb87?tab=repositories"> Here</a>
 
