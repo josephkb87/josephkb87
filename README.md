@@ -1,6 +1,6 @@
 ### Hi, **I am Joseph**.Welcome to  
 
-### My Official Site is <a href="https://josephkb87.github.io">Official Profile</a>
+### My Official Site is <a href="https://josephkb87.github.io">here</a>
 
 ### Check out My Socials <a href="https://linktr.ee/jungbasher87">Linktree</a>
 
