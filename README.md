@@ -1,27 +1,45 @@
-###  Hi, 👋. I am **Joseph** Kiyini Balamazze. 
+###  Hi, 👋I am **Joseph** Kiyini Balamazze. Welcome to  My Github.
 
-####  Official Website is <a href="https://josephkb87.github.io">Here</a>
+###  I am a.👀 Computer Science & Aerospace  Undergrad applying Programming Science to building software and tools for AeroSpace.
 
-####  You can find me on <a href="https://linktr.ee/jungbasher87">Linktree</a>
+####  My Official Site is <a href="https://josephkb87.github.io">Over Here</a>
 
-####  🌱   My work is <a href="https://github.com/josephkb87?tab=repositories"> Here</a>
+####  Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
 
-####  🌱   My Projects Are <a href="https://github.com/josephkb87?tab=projects">Here</a>
+  ####  🌱   Some of My work is <a href="https://github.com/josephkb87?tab=repositories"> Here</a>
+
+ ####  🌱   My Projects Are <a href="https://github.com/josephkb87?tab=projects">Here</a>
+
+
+<a href="https://github.com/github.com/josephkb87/PythonBasics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
+</a>
+
+<a href="https://github.com/github.com/josephkb87/Matlab_Octave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
+</a>
+
+<a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
+</a>
+
+<a href="https://github.com/josephkb87/JuMatOct">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
+</a>
+
+<a href="https://github.com/josephkb87/VerilogBasics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
+</a>
+
+<a href="https://github.com/josephkb87/Filters">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
+</a>
+
+  [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats) 
  
-####  Shortcuts to;   
-
- ####  <p>For Python Basics <a href="https://github.com/josephkb87/PythonBasics"> Go here </a> </p>
- 
- ####   <p>For Python SQL <a href="https://github.com/josephkb87/PythonSQLDB">Go here</a> </p>
-  ####	 <p> Matlab  & Octave? <a href="https://github.com/josephkb87/Matlab_Octave">Go here</a> </p>
-   #### <p> More <a href="https://github.com/josephkb87?tab=repositories">Go here</a> </p>
- 
-
-  [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=radical)](https://github.com/josephkb87/github-readme-stats)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats) 
- 
- [![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HermesWraith)](https://github.com/josephkb87/github-readme-stats)
+ [![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HermesWraith&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
  
  <!--START_SECTION:waka-->
 
