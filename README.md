@@ -1,8 +1,8 @@
-### Hi, **I am Joseph**.Welcome to  
+### Hi, **I am Joseph**.Welcome to My Github.
 
-### My Official Site is <a href="https://josephkb87.github.io">here</a>
+###  My Official Site is <a href="https://josephkb87.github.io">here</a>
 
-### Check out My Socials <a href="https://linktr.ee/jungbasher87">Linktree</a>
+### I am sometimes on <a href="https://linktr.ee/jungbasher87">Linktree</a>
 
 ### <!--START_SECTION:waka--><!--END_SECTION:waka-->
  
