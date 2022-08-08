@@ -1,10 +1,10 @@
-###  Hi, 👋I am **Joseph** Kiyini Balamazze. Welcome to  My Github.
-
-###  I am a.👀 Computer Science & Aerospace  Undergrad applying Programming Science to building software and tools for AeroSpace.
+###  Hi, 👋. I am **Joseph** Kiyini Balamazze. 
 
 ####  <a href="https://josephkb87.github.io">Website</a>
 
-####  Check out My Socials on <a href="https://linktr.ee/jungbasher87">My Socials</a>
+###  I am a.👀 Computer Science & Aerospace Engineer applying Programming Science to build software tools for AeroSpace.
+
+####  You can find me on <a href="https://linktr.ee/jungbasher87">Linktree</a>
 
   ####  🌱   My work is <a href="https://github.com/josephkb87?tab=repositories"> Here</a>
 
