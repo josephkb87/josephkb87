@@ -15,7 +15,7 @@ Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
 </a>
 
-<a href="https://github.com/josephkb87/Matlab_Octave">
+<a href="https://github.com/josephkb87/matlab_octave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
 </a>
 
