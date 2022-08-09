@@ -14,7 +14,7 @@ Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
 </a>
 
 <a href="https://github.com/josephkb87/matlab_octave">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
 </a>
 
 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">
@@ -22,11 +22,11 @@ Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
 </a>
 
 <a href="https://github.com/josephkb87/JuMatOct">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
 </a>
 
 <a href="https://github.com/josephkb87/VerilogBasics">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
 </a>
 
 <a href="https://github.com/josephkb87/Filters">
