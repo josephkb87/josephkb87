@@ -30,7 +30,7 @@ Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
 </a>
 
 <a href="https://github.com/josephkb87/Filters">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
 </a>
 
   [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
