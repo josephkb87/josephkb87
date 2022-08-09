@@ -1,7 +1,5 @@
   Hi, 👋I am **Joseph** Kiyini Balamazze. Welcome to  My Github.
 
- I am a.👀 Computer Science & Aerospace  Undergrad applying Programming Science to building software and tools for AeroSpace.
-
 My Official Site is <a href="https://josephkb87.github.io">Over Here</a>
 
 Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
@@ -16,23 +14,23 @@ Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
 </a>
 
 <a href="https://github.com/josephkb87/matlab_octave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
 </a>
 
 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
 </a>
 
 <a href="https://github.com/josephkb87/JuMatOct">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
 </a>
 
 <a href="https://github.com/josephkb87/VerilogBasics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
 </a>
 
 <a href="https://github.com/josephkb87/Filters">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
 </a>
 
   [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
