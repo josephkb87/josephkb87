@@ -1,6 +1,6 @@
   Hi, 👋. Welcome to  My Github.
 
-  🌱  <a href="https://josephkb87.github.io">About Me</a>🌱<a href="https://linktr.ee/jungbasher87">My Socials</a>🌱<a href="https://github.com/josephkb87?tab=repositories"> My work </a>🌱<a href="https://github.com/josephkb87?tab=projects">My Projects</a>🌱 <a href="https://github.com/josephkb87?tab=projects">Organisations</a>
+  🌱  <a href="https://josephkb87.github.io">About Me</a>🌱<a href="https://linktr.ee/jungbasher87">My Socials</a>🌱<a href="https://github.com/josephkb87?tab=repositories"> My work </a>🌱<a href="https://github.com/josephkb87?tab=projects">My Projects</a>🌱 Ask Me About;<a href="https://github.com/LUCIDWEBHOSTING"> LucidWebhosting,</a>🌱<a href="https://github.com/CORENAUTICS">CoreNauTiX</a> 🌱<a href="https://github.com/OASSP">O.A.S.S.P</a>🌱<a href="https://github.com/OASSP/EA_NPTHEL_Home">EANPTHEL</a>
 
 
 <a href="https://github.com/josephkb87/PythonBasics"><img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
