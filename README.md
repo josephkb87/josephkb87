@@ -16,10 +16,8 @@
 </a>.<a href="https://github.com/josephkb87/JuMatOct"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
 </a>
 
-<a href="https://github.com/josephkb87/VerilogBasics"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
-</a>
-
-<a href="https://github.com/josephkb87/Filters"><img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
+<a href="https://github.com/josephkb87/VerilogBasics"><img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
+</a>.<a href="https://github.com/josephkb87/Filters"><img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
 </a>
 
 [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
