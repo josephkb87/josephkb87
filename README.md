@@ -1,12 +1,10 @@
-  Hi, 👋I am **Joseph** Kiyini Balamazze. Welcome to  My Github.
+  Hi, 👋. Welcome to  My Github.
 
-My Official Site is <a href="https://josephkb87.github.io">Over Here</a>
+  🌱  <a href="https://josephkb87.github.io">About Me</a>. <a href="https://linktr.ee/jungbasher87">My Socials</a>
 
-Check out My Socials on <a href="https://linktr.ee/jungbasher87">Linktree</a>
+🌱    <a href="https://github.com/josephkb87?tab=repositories"> My work </a>
 
-🌱   Some of My work is <a href="https://github.com/josephkb87?tab=repositories"> Here</a>
-
-🌱   My Projects Are <a href="https://github.com/josephkb87?tab=projects">Here</a>
+🌱    <a href="https://github.com/josephkb87?tab=projects">My Projects</a>
 
 
 <a href="https://github.com/josephkb87/PythonBasics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
