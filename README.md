@@ -1,17 +1,17 @@
   Hi, 👋. Welcome to  My Github.
 
-  🌱  <a href="https://josephkb87.github.io">About Me</a>. <a href="https://linktr.ee/jungbasher87">My Socials</a>
+  🌱  <a href="https://josephkb87.github.io">About Me</a>. <a href="https://linktr.ee/jungbasher87">My Socials</a>.<a href="https://github.com/josephkb87?tab=repositories"> My work </a>.<a href="https://github.com/josephkb87?tab=projects">My Projects</a>
 
-🌱    <a href="https://github.com/josephkb87?tab=repositories"> My work </a>
+🌱    
 
-🌱    <a href="https://github.com/josephkb87?tab=projects">My Projects</a>
+🌱    
 
 
-<a href="https://github.com/josephkb87/PythonBasics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
+<a href="https://github.com/josephkb87/PythonBasics"><img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
 </a>
 
 <a href="https://github.com/josephkb87/matlab_octave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
+  <img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
 </a>
 
 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
