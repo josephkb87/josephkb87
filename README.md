@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/josephkb87/matlab_octave">
-  <img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
 </a>
 
 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
