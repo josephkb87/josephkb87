@@ -5,16 +5,6 @@
   🌱 I work with; <a href="https://spacegeneration.org/regions/africa/uganda">S.G.A.C as NPoC_Uganda </a>🌱 <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a>
 
   🌱Team member of; <a href="https://github.com/LUCIDWEBHOSTING">LucidWebhosting</a>🌱 <a href="https://github.com/CORENAUTICS">CoreNauTiX.</a> 🌱<a href="https://github.com/OASSP">O.A.S.S.P.</a>🌱<a href="https://github.com/sponsors/josephkb87">Sponsor Me</a>
-  
-  <div align="center">
-  <img src="img/banner.png" alt="App Privacy Policy Generator">
-</div>
-
-Thanks go to [nisrulz](https://github.com/josephkb87/app-privacy-policy-generator)
-
-<em>A simple web app to generate a generic privacy policy for your Android/iOS apps</em>
-</strong><br>
-<a href="https://app-privacy-policy-generator.nisrulz.com/">Click here to access the webapp online</a></div>
 
 <br>
 
