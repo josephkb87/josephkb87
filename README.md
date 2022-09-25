@@ -5,9 +5,7 @@
   🌱 I work with; <a href="https://spacegeneration.org/regions/africa/uganda">S.G.A.C as NPoC_Uganda </a>🌱 <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a>
 
   🌱Team member of; <a href="https://github.com/LUCIDWEBHOSTING">LucidWebhosting</a>🌱 <a href="https://github.com/CORENAUTICS">CoreNauTiX.</a> 🌱<a href="https://github.com/OASSP">O.A.S.S.P.</a>🌱<a href="https://github.com/sponsors/josephkb87">Sponsor Me</a>
-🌱 
-<br> 
-
+🌱  
 <div align="center"><a href="https://www.androiddevdigest.com/digest-135/">
   <img src="https://img.shields.io/badge/AndroidDev%18Digest-%23133-blue.svg" alt="AndroidDevDigest"> </div>
 🌱 
