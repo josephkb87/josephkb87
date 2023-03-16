@@ -2,9 +2,9 @@
 
   Hi, 👋 <a href="https://josephkb87.github.io">`About Me`</a>.<a href="https://linktr.ee/jungbasher87">`My Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>.
   
-  🌱 I work with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a>🌱 <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a>.
+  🌱 I work with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a> & <a href="https://wcrc.world/Files/WCRC_POC.pdf">`W.C.R.C.`</a> as <a href="https://wcrc.world/Files/WCRC_POC.pdf">PoC_Uganda</a>.
 
- 🌱 I am a Team member of; <a href="https://github.com/LUCIDWEBHOSTING">LucidWebhosting</a>. <a href="https://github.com/CORENAUTICS">CoreNauTiX.</a><a href="https://github.com/OASSP">O.A.S.S.P</a>
+ 🌱 I am also a Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a><a href="https://github.com/LUCIDWEBHOSTING">LucidWebhosting</a> & <a href="https://github.com/CORENAUTICS">CoreNauTiX.</a>
 
 <a href="https://github.com/josephkb87/readme.md"><img src="https://img.shields.io/github/stars/josephkb87/app-privacy-policy-generator.svg?style=social&amp;label=Star" alt="GitHub stars"></a>.<a href="https://github.com/josephkb87/josephkb87.github.io/fork"><img src="https://img.shields.io/github/forks/josephkb87/josephkb87.svg?style=social&amp;label=Fork" alt="GitHub forks"></a>.<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/watchers/josephkb87/josephkb87.svg?style=social&amp;label=Watch" alt="GitHub watchers"></a>.<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/followers/josephkb87.svg?style=social&amp;label=Follow" alt="GitHub followers"></a>.<a href="https://twitter.com/josephkb87"><img src="https://img.shields.io/twitter/follow/clydekingkid.svg?style=social" alt="Twitter Follow"></a>
 
