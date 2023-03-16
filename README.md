@@ -2,7 +2,7 @@
 
   Hi, 👋 <a href="https://josephkb87.github.io">`About Me`</a>.<a href="https://linktr.ee/jungbasher87">`My Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>.
   
-  🌱 I work with `S.G.A.C`as <a href="https://spacegeneration.org>; <a href="https://spacegeneration.org/regions/africa/uganda"> NPoC_Uganda </a>🌱 <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a>.
+  🌱 I work with <a href="https://spacegeneration.org>`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a>🌱 <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a>.
 
  🌱 I am a Team member of; <a href="https://github.com/LUCIDWEBHOSTING">LucidWebhosting</a>. <a href="https://github.com/CORENAUTICS">CoreNauTiX.</a><a href="https://github.com/OASSP">O.A.S.S.P</a>
 
