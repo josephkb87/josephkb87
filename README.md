@@ -25,7 +25,7 @@ ___
 
 - Tell me you like this project or how it helped you out!
 
-  - [Comment in the project's guestbook](https://github.com/josephkb87/app-privacy-policy-generator/issues/) :blush:,
+  - [Comment in the project's guestbook](<script src="https://gist.github.com/josephkb87/3815b32d5d25435ea5b7220e84aaf88e.js"></script>) :blush:,
   - Reach out on [Twitter](https://twitter.com/clydekingkid),
   - or [send a nice email my way](mailto:kiyinijoseph@gmail@gmail.com)!
 
