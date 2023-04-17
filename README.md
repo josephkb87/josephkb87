@@ -6,7 +6,7 @@
   
   🌱 I work with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a> & <a href="https://wcrc.world/">`W.C.R.C.`</a> as <a href="https://wcrc.world/Files/WCRC_POC.pdf">PoC_Uganda</a>.
 
- 🌱 I am also a Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a><a href="https://github.com/LUCIDWEBHOSTING">'LucidWebhosting'</a> & <a href="https://github.com/CORENAUTICS">'CoreNauTiX'</a>
+ 🌱 I am also a Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a><a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a> & <a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
  
  ___
 
