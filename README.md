@@ -1,8 +1,9 @@
-  Hi, 👋. Welcome👋.
 
- ___
+  Hi, 👋.Welcome👋. <a href="https://josephkb87.github.io/">`I am Joseph`</a>👋.
 
-<a href="https://github.com/josephkb87/readme.md"><img src="https://img.shields.io/github/stars/josephkb87/app-privacy-policy-generator.svg?style=social&amp;label=Star" alt="GitHub stars"></a>.<a href="https://github.com/josephkb87/josephkb87.github.io/fork"><img src="https://img.shields.io/github/forks/josephkb87/josephkb87.svg?style=social&amp;label=Fork" alt="GitHub forks"></a>.<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/watchers/josephkb87/josephkb87.svg?style=social&amp;label=Watch" alt="GitHub watchers"></a>.<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/followers/josephkb87.svg?style=social&amp;label=Follow" alt="GitHub followers"></a>.<a href="https://twitter.com/josephkb87"><img src="https://img.shields.io/twitter/follow/clydekingkid.svg?style=social" alt="Twitter Follow"></a>
+  <a href="https://github.com/josephkb87"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>. Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>
+  <a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>
+  <a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/josephkb87/josephkb87?style=for-the-badge)</a>  [![hello-world](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/hello-world.yml/badge.svg)](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/hello-world.yml)
 
@@ -21,6 +22,9 @@
 
  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats)
  [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HermesWraith&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
+
+ <!--START_SECTION:waka-->
+
  
 <!--END_SECTION:waka-->
 
