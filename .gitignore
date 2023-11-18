@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-keybase.txt
-=======
 *
 */
 !.gitignore
@@ -120,12 +117,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-http://www.gnu.org/software/automake
-
-# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,windows,autotools+strict,autotools,premake-gmake,cmake
-
-# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,windows,autotools+strict,autotools,premake-gmake,cmake
 
 ### Autotools ###
 # http://www.gnu.org/software/automake
@@ -303,6 +294,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,autotools+strict,autotools,premake-gmake,cmake
->>>>>>> Stashed changes
+#
