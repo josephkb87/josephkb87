@@ -1,4 +1,4 @@
-## Welcome Hi, 👋 
+## Hi, 👋. I am Joseph,  
 
 <a href="https://josephkb87.github.io">`About`</a>.<a href="https://linktr.ee/jungbasher87">`Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>.
 🌱 I work with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a> & <a href="https://wcrc.world/">`W.C.R.C.`</a> as <a href="https://wcrc.world/Files/WCRC_POC.pdf">PoC_Uganda</a>.
