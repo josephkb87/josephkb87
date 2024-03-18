@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Hi, 👋.Welcome👋. <a href="https://josephkb87.github.io/">`I am Joseph`</a>👋.
+=======
+<<<<<<< HEAD
+=======
+## Hi, 👋. I am Joseph,  
+>>>>>>> 21c05df (Update README.md)
+
+>>>>>>> 12c91f6 (Update README.md)
 ## Hi, 👋. I am Joseph,  
 
 <a href="https://josephkb87.github.io">`About`</a>.<a href="https://linktr.ee/jungbasher87">`Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>.
