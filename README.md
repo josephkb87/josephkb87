@@ -1,4 +1,4 @@
-## Welcome Hi, 👋 
+## Hi, 👋. I am Joseph,  
 
 <a href="https://josephkb87.github.io">`About`</a> . <a href="https://linktr.ee/jungbasher87"> Socials</a> ; <a href="https://github.com/josephkb87?tab=repositories"> 
  Workportfolio </a> ; <a href="https://github.com/josephkb87?tab=projects"> Projects </a> ; <a href="https://github.com/josephkb87/cv.md"> CV </a>; <a href="https://github.com/josephkb87/worklog.md"> & Worklog</a>
