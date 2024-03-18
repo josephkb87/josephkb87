@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+## Hi, 👋. I am Joseph,  
+>>>>>>> 21c05df (Update README.md)
 
 <<<<<<< HEAD
 ## Hi, 👋. I am Joseph,  
