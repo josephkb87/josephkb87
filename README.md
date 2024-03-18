@@ -16,6 +16,11 @@ I worked with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="http
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+## Hi, 👋. I am Joseph,  
+>>>>>>> 21c05df (Update README.md)
+>>>>>>> 145b66f (Update README.md)
 
 <<<<<<< HEAD
 >>>>>>> a7fcd04 (Update README.md)
