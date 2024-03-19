@@ -8,6 +8,7 @@
 =======
 🌱 I worked with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a> & currently with the <a href="https://wcrc.world/">`W.C.R.C.`</a> as <a href="https://wcrc.world/Files/WCRC_POC.pdf">PoC_Uganda</a>.
   
+<<<<<<< HEAD
 <a href="https://github.com/josephkb87"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>. Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>.<a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>.<a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
 >>>>>>> 31b1c9b (Update README.md)
 =======
@@ -15,6 +16,13 @@
   
 <a href="https://github.com/josephkb87"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>. Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>.<a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>.<a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
 >>>>>>> origin/josephkb87-patch-10
+=======
+<a href="https://github.com/josephkb87"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>. Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>
+<a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>
+<a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
+
+[![wakatime](https://wakatime.com/badge/user/8c27ce8b-afb1-4d47-9d3c-2a903e0a0ab7.svg)](https://wakatime.com/@8c27ce8b-afb1-4d47-9d3c-2a903e0a0ab7)
+>>>>>>> josephkb87-patch-9
 
 <a href="https://github.com/josephkb87/PythonBasics"><img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
 </a> <a href="https://github.com/josephkb87/matlab_octave">
