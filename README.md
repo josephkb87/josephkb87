@@ -2,7 +2,7 @@
 Hi, 👋.Welcome👋. <a href="https://josephkb87.github.io/">`I am Joseph`</a>👋.
 =======
 <<<<<<< HEAD
-=======
+
 ## Hi, 👋. I am Joseph,  
 >>>>>>> 21c05df (Update README.md)
 

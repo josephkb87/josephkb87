@@ -1,13 +1,24 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 *
+=======
+>>>>>>> 4003c10 (Add CV.md Worklog.md)
 */
 !.gitignore
 
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
 
+<<<<<<< HEAD
+=======
+
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+
+>>>>>>> 4003c10 (Add CV.md Worklog.md)
 # Useful .gitignore templates: https://github.com/github/gitignore
 node_modules
 dist
@@ -27,6 +38,7 @@ dist
 
 pkg/
 src/
+
 
 *.AdminAuth.git
 
@@ -207,8 +219,6 @@ Makefile
 ### Autotools+strict Patch ###
 # Generated source files
 configure
-
-
 
 ### CMake ###
 CMakeLists.txt.user
