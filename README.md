@@ -9,13 +9,6 @@ Hi, 👋.Welcome👋. <a href="https://josephkb87.github.io/">`I am Joseph`</a>�
 >>>>>>> 12c91f6 (Update README.md)
 ## Hi, 👋. I am Joseph,  
 
-<a href="https://josephkb87.github.io">`About`</a>.<a href="https://linktr.ee/jungbasher87">`Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>.
-🌱 I work with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a> & <a href="https://wcrc.world/">`W.C.R.C.`</a> as <a href="https://wcrc.world/Files/WCRC_POC.pdf">PoC_Uganda</a>.
-  
-<a href="https://github.com/josephkb87"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>. Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>
-<a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>
-<a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
-
 <a href="https://josephkb87.github.io">`About`</a> . <a href="https://linktr.ee/jungbasher87"> Socials</a> ; <a href="https://github.com/josephkb87?tab=repositories"> 
  Workportfolio </a> ; <a href="https://github.com/josephkb87?tab=projects"> Projects </a> ; <a href="https://github.com/josephkb87/cv.md"> CV </a>; <a href="https://github.com/josephkb87/worklog.md"> & Worklog</a>
 I worked with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a> & currently with the <a href="https://wcrc.world/">`W.C.R.C.`</a> as <a href="https://wcrc.world/Files/WCRC_POC.pdf">PoC_Uganda</a>.   Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>.<a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>.<a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
