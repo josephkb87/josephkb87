@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi, 👋. I am Joseph,    
 
 <a href="https://josephkb87.github.io">`About Me`</a>.<a href="https://linktr.ee/jungbasher87">`My Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a>.
@@ -9,6 +10,11 @@ I worked with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="http
 
 <a href="https://josephkb87.github.io">`About`</a> . <a href="https://linktr.ee/jungbasher87"> Socials</a> ; <a href="https://github.com/josephkb87?tab=repositories"> 
  Workportfolio </a> ; <a href="https://github.com/josephkb87?tab=projects"> Projects </a> ; <a href="https://github.com/josephkb87/cv.md"> CV </a>; <a href="https://github.com/josephkb87/worklog.md"> & Worklog</a>
+=======
+## Hi, Welcome 👋. I am Joseph,  
+  
+<a href="https://josephkb87.github.io">`About`</a>.<a href="https://linktr.ee/jungbasher87">`Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `Work` </a>.<a href="https://github.com/josephkb87?tab=projects">`Projects`</a>.
+>>>>>>> 165688f (Update README.md)
 I worked with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda"> as NPoC_Uganda </a> & currently with the <a href="https://wcrc.world/">`W.C.R.C.`</a> as <a href="https://wcrc.world/Files/WCRC_POC.pdf">PoC_Uganda</a>.   Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>.<a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>.<a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
  
 
@@ -38,6 +44,10 @@ I worked with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="http
 <<<<<<< HEAD
 <a href="https://github.com/josephkb87/VerilogBasics"><img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" /></a> 
 
+<<<<<<< HEAD
+=======
+---
+>>>>>>> 165688f (Update README.md)
 [![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josephkb&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
 =======
 <a href="https://github.com/josephkb87/VerilogBasics"><img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
@@ -47,9 +57,14 @@ I worked with <a href="https://spacegeneration.org">`S.G.A.C`</a>; <a href="http
 [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats)
+<<<<<<< HEAD
  [![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HermesWraith&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
 
 
+=======
+ 
+---
+>>>>>>> 165688f (Update README.md)
  <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
