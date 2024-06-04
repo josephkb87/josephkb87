@@ -1,50 +1,48 @@
 KIYINI Joseph Balamazze CV 
 ====== 
 
-## Profile: 
+#### Profile: 
 [Github](https://github.com/josephkb87); [Linkedin](https://www.linkedin.com/in/kiyini-joseph-balamazze-04953420/); 
 
 
-## Education and Training
+#### Education and Training
 
 
 
-## Affliation/Contributions
+#### Affliation/Contributions
 
 
 
 
-## Work Experience
+#### Work Experience
 
 
 
---
-## Knowledge & Skills
 
-#### Professional Skills
+#### Knowledge & Skills
 
-####  Programming 
++ Professional Skills
 
-#### Work Character Skills
++ Programming Skills 
+
+Work Character Skills
 
 
+#### Tools 
 
-## Build Tools 
++ Build
++ Stacks & Frameworks
 
---
-#### Stacks & Frameworks
 
--- 
 #### Languages
--- 
 
-## Projects
 
-#### Completed;
+#### Projects
 
-#### Current;  
++ Completed;
 
----
-## References 
++ Current;  
 
----
+
+#### References 
+
