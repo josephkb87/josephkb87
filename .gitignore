@@ -1,18 +1,11 @@
-<<<<<<< Updated upstream
-*
-*/
 !.gitignore
 
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
 
-=======
-<<<<<<< Updated upstream
-keybase.txt
-=======
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
->>>>>>> Stashed changes
+
 # Useful .gitignore templates: https://github.com/github/gitignore
 node_modules
 dist
@@ -33,11 +26,9 @@ dist
 pkg/
 src/
 
-<<<<<<< Updated upstream
+
 *.AdminAuth.git
 
-=======
->>>>>>> Stashed changes
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
@@ -54,10 +45,6 @@ src/
 *_REMOTE_*.txt
 
 ### Linux ###
-<<<<<<< Updated upstream
-=======
-*~
->>>>>>> Stashed changes
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
@@ -133,7 +120,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-<<<<<<< Updated upstream
+# http://www.gnu.org/software/automake
+
+# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,windows,autotools+strict,autotools,premake-gmake,cmake
+
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,windows,autotools+strict,autotools,premake-gmake,cmake
+
 ### Autotools ###
 # http://www.gnu.org/software/automake
 
@@ -214,8 +206,6 @@ Makefile
 ### Autotools+strict Patch ###
 # Generated source files
 configure
-
-
 
 ### CMake ###
 CMakeLists.txt.user
@@ -310,8 +300,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-#
-=======
 
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+# End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,autotools+strict,autotools,premake-gmake,cmake
+
