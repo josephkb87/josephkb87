@@ -31,8 +31,7 @@
 <a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>
 <a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
 
-[![wakatime](https://wakatime.com/badge/user/8c27ce8b-afb1-4d47-9d3c-2a903e0a0ab7.svg)](https://wakatime.com/@8c27ce8b-afb1-4d47-9d3c-2a903e0a0ab7)
->>>>>>> josephkb87-patch-9
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/josephkb87?style=for-the-badge)]  [![hello-world](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/hello-world.yml/badge.svg)](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/hello-world.yml)
 
 <a href="https://github.com/josephkb87/PythonBasics"><img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
 </a> <a href="https://github.com/josephkb87/matlab_octave">
