@@ -1,6 +1,6 @@
 Hi, 👋. I am Joseph,    
 
-<a href="https://josephkb87.github.io">`About Me`</a>.<a href="https://linktr.ee/jungbasher87">`My Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a> ; <a href="https://github.com/josephkb87/cv.md"> CV </a>; <a href="https://github.com/josephkb87/Worklog.md"> & Worklog </a>
+<a href="https://josephkb87.github.io">`About Me`</a>.<a href="https://linktr.ee/jungbasher87">`My Socials`</a>.<a href="https://github.com/josephkb87?tab=repositories"> `My work` </a>.<a href="https://github.com/josephkb87?tab=projects">`My Projects`</a> ; <a href="https://github.com/josephkb87/cv.md"> CV </a>; <a href="https://github.com/josephkb87/josephkb87/blob/main/Worklog.md"> & Worklog </a>
 
 Previously, was NPoC_Uganda <a href="https://spacegeneration.org"> with `S.G.A.C`</a>; <a href="https://spacegeneration.org/regions/africa/uganda">  </a> & currently with the <a href="https://wcrc.world/">`W.C.R.C.`</a> as <a href="https://wcrc.world/Files/WCRC_POC.pdf">PoC_Uganda</a>.   Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>.<a href="https://github.com/LUCIDWEBHOSTING">`LucidWebhosting`</a>.<a href="https://github.com/CORENAUTICS">`CoreNauTiX`</a>
 
