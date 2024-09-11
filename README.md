@@ -8,29 +8,8 @@ Joseph is a Team member of; <a href="https://github.com/OASSP">`O.A.S.S.P`</a>.<
 
  [![hello-world](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/hello-world.yml/badge.svg)](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/hello-world.yml)
 
-<a href="https://github.com/josephkb87/PythonBasics"><img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=PythonBasics" />
-</a> <a href="https://github.com/josephkb87/matlab_octave">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=Matlab_Octave" />
-</a>
 
-<a href="https://github.com/josephkb87/Filters"><img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
-</a> <a href="https://github.com/josephkb87/JuMatOct"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
-</a>
-
-<a href="https://github.com/josephkb87/VerilogBasics"><img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" /></a> 
-
-
-[![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josephkb&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
-
-<a href="https://github.com/josephkb87/VerilogBasics"><img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
-</a> <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" /></a>
-
-
-[![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats)
-
- [![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josephkb&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
+[![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats) :: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=tiny)](https://github.com/josephkb87/github-readme-stats) :: [![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josephkb&langs_count=10&layout=tiny&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
 
 
  <!--START_SECTION:waka-->
